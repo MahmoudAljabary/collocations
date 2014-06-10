@@ -1,0 +1,3 @@
+This is a simple set of scripts which will mine a corpus for important phrases and collocations.
+
+A work in progress...
